@@ -54,3 +54,8 @@ To build a scalable data cleaning pipeline using PySpark that can process large 
 ### 1. Install dependencies
 bash
 pip install pyspark
+
+### Technologies used
+Python
+PySpark
+Big Data Processing
