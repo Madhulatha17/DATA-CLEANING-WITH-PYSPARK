@@ -1,0 +1,8 @@
+id,name,age,city,salary
+1,Anil,21,Hyderabad,30000
+2,Ravi,,Chennai,40000
+3,Sita,22,,50000
+4,Anil,21,Hyderabad,30000
+5,John,25,Bangalore,
+6,Meena,23,Chennai,45000
+7,,24,Hyderabad,35000
